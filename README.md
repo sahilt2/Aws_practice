@@ -1,7 +1,7 @@
 # musician-app
 NodeJS / React sample app for AWS CI/CD pipeline tutorial
 
-Remember to deploy in **Node.js running on 64bit Amazon Linux**
+Remember to deploy in **Node.js running on 64bit Amazon Linux** <br>
 Also consider using NodeJS version 14 (which has long term support)
 
 It is already running live on my AWS account here:
